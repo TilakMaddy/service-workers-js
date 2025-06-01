@@ -5,6 +5,8 @@ Code is organized in branches.
 |           	| Description                                    	| Branch       	|
 |-----------	|------------------------------------------------	|--------------	|
 | Chapter 1 	| Skeleton for manually installed service worker 	| ch1-skeleton 	|
+|-----------	|------------------------------------------------	|--------------	|
+| Chapter 2 	| Important methods from Cache API	                | ch2-cache-api|
 
 
 > This repository is for personal reference. You should not use it in production.
